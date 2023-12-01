@@ -27,7 +27,7 @@ Ringstellung  		: ? 11 15
 Grundstellung 		: ? 19 ?
 Steckerbindungen 	: CK
 Zufallswert 		: 15??--??
-Walzenlage			: ?
+Walzenlage		: ?
 ```
 
 ## machine.zip
@@ -174,8 +174,8 @@ Ringstellung  		: 22 11 15
 Grundstellung 		: 0 19 4
 Steckerbindungen 	: CK
 Zufallswert 		: 15??--??
-Walzenlage			: 4 1 3
-Reflectors			: 3?
+Walzenlage		: 4 1 3
+Reflectors		: 3?
 ```
 
 So we found one reflector over the two !
