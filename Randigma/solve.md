@@ -145,7 +145,7 @@ Same approach as above, save your time and find a C implementation of the **coin
 
 For the validation of the modified enigma machine, we have used twice the same reflector (for **mach->reflector1** and **mach->reflector2**). This has the following consequences or impacts:
 
-- The **seed a no effect anymore** the the same reflector is used,
+- The **seed has no effect anymore** the the same reflector is used,
 - **if the LCG is balanced** between odd and even numbers, then the IC will increase when one of the two reflectors used will be selected,
 - **if the LCG is unbalanced** , then the most used reflector will provide the highest IC.
 
