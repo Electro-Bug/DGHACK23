@@ -196,7 +196,7 @@ plugLetter(plug,'Z','M');
 
 # Bruteforce part 2
 
-Then, with the save solving function core, we bruteforce:
+Then, with the same solving function core, we bruteforce:
 
 - The seed to infinity and beyond,
 - The first reflector from 1 to 3,
